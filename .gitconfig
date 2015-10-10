@@ -1,5 +1,5 @@
 [user]
-    name = Doug Black
+    name = Ionut Ambrosie
     email = dblack@twilio.com
 [color]
     ui = true
@@ -8,7 +8,7 @@
     tool = vimdiff
     algorithm = patience
 [core]
-    editor = /usr/bin/vim
+    editor = $(which vim)
 [push]
     default = simple
 [init]
